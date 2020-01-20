@@ -46,7 +46,7 @@ library:
   source-dirs: src
 
 executables:
-  am-exe:
+  ses-haskell-exe:
     main:                Main.hs
     source-dirs:         app
     ghc-options:
@@ -57,7 +57,7 @@ executables:
     - ses-haskell
 
 tests:
-  am-test:
+  ses-haskell-test:
     main:                Spec.hs
     source-dirs:         test
     ghc-options:

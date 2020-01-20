@@ -12,6 +12,9 @@ $ stack exec ses-haskell-exe
 Successfully sent with message ID : 0101016fc064f4c4-01044b9a-ffdc-495f-9229-af7e5521602c-000000
 ```
 
+A few minutes later, I receive the following:
+![screenshot of an e-mail](/images/e-mail.png)
+
 Nick Brandaleone
 nbrand@mac.com
 
