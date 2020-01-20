@@ -25,8 +25,6 @@ import System.Environment (getEnv)
 import Blaze.ByteString.Builder (toByteString)
 import Data.Aeson
 
-import Data.List (sortBy)
-
 
 canonicalRequest :: Request -> ByteString -> ByteString
 canonicalRequest req body = C.concat $
